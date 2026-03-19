@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Sorabh Rathod! 👋
 
-<!--
-**SorabhR/SorabhR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Sr. Embedded Firmware Engineer from Mumbai, India. I love building smart devices, working with microcontrollers, and making hardware talk to the cloud (IoT). 
 
-Here are some ideas to get you started:
+### 👷‍♂️ About Me
+- 🔭 I’m currently working on Gen4 IoT devices using LoRaWAN and Secure Boot.
+- 🌱 I’m currently learning web development (JavaScript and the MERN stack) to build better full-stack IoT solutions.
+- ⚡ Fun fact: I once built a custom BLDC motor controller for electric bikes and a self-balancing robot!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Tech Stack
+
+**Languages:** - C, Python, JavaScript 
+
+**Hardware & Microcontrollers:** - STM32 (including STM32WL), ESP32, Raspberry Pi, AVR, Arduino
+
+**IoT & Wireless Protocols:** - LoRaWAN, MQTT, BLE, Zigbee, Z-Wave, Thread
+- SPI, I2C, UART
+
+**OS & Tools:** - FreeRTOS, Embedded Linux, AWS IoT Core, TouchGFX
+- Git, Unit Testing (Unity)
+
+### 📫 Let's Connect
+- **LinkedIn:** [Click here to visit my LinkedIn](https://linkedin.com/in/yourprofile)
+- **Email:** sorabhrathod14@gmail.com
